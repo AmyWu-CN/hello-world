@@ -10,3 +10,7 @@
     > - Profits were higher than ever.
     >
     >  *Everything* is going according to **plan**.
+
+***
+
+本仓库根据[**GitHub文档 快速入门**](https://docs.github.com/zh/get-started/quickstart/hello-world)创建，可在pull requests中查看历史更改。
